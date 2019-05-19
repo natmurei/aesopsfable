@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aesop\'sFable</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_the_man">The Man</string>
+    <string name="title_activity_bellingthe_cat">Belling the Cat</string>
+    <string name="title_activity_the_lionin_love">The Lion in Love</string>
+    <string name="title_activity_the_asss_brains">The Ass Brains</string>
+    <string name="title_activity_the_assandthe_charger">The Ass and the Charger</string>
+    <string name="title_activity_the_bundleof_sticks">The Bundle of Sticks</string>
+    <string name="title_activity_the_boysandthe_frogs">The Boys and the Frogs</string>
+    <string name="title_activity_the_cockandthe_jewel">The Cock and the Jewel</string>
+    <string name="title_activity_the_cat_maiden">The Cat Maiden</string>
+    <string name="title_activity_the_dog_invitedto_supper">The Dog Invited to Supper</string>
+</resources>
